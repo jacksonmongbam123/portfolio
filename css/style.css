@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.header{
+    background-color: #0F3460;
+    height: 80px;
+    margin: 0;
+}
+.header h2{
+    font-family: 'Sacramento', cursive;
+    padding: 15px 0 15px 40px;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+    font-size: 40px;
+}
+.top-container{
+    padding: 100px;
+    position: relative;
+    background-color: #CDF0EA;
+}
+span{
+    color: red;
+}
+.mountain{
+    width: 55%;
+}
+.cloud1{
+    width: 15%;
+    position: absolute;
+    top: 50px;
+    right: 5%;
+}
+.top-container p{
+    color: #66BFBF;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 70px;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5rem;
+    width: 30%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+
+}
+.middle-container{
+    padding-top: 100px;
+}
+.profile{
+    width: 30%;
+    margin: 0 auto 30px auto;
+    line-height: 2;
+}
+.profile img{
+    width: 400px;
+}
+h2{
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.skill1{
+    margin-right: 30px;
+    width: 25%;
+    float: left;
+}
+.skill2{
+    margin-left: 30px;
+    width: 25%;
+    float: right;
+}
+hr{
+    width: 4%;
+    border: dotted #EEF2E6 8px;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+
+}
+.btn{
+    text-decoration: none;
+    border: 1px solid #000;
+    padding: 8px;
+    background-color: #0F3460;
+    color: #fff;
+}
+.bottom-container{
+    margin-top: 50px;
+    padding: 30px;
+    background-color: #66BFBF;
+}
+.contact-me p{
+    margin-bottom: 50px;
+}
+.contact-me{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
